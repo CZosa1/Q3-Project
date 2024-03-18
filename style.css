@@ -1,0 +1,64 @@
+body {
+    background-size: 100% auto;
+    font-family: 'Rubik' !important;
+    color: #111 !important;
+    overflow-x: hidden;
+}
+
+nav {
+    background-color: #35b335 !important;
+}
+
+.img-thumbnail {
+    background-color: #35b335 !important;
+    border-color: #278827 !important;
+}
+
+.youtube {
+    color: #f00 !important;
+}
+
+.twitch {
+    color: #0af !important;
+}
+
+.patreon {
+    color: #111 !important;
+}
+
+#essay {
+    font-size: 1.5vw;
+}
+
+p {
+    color: #fff !important;
+}
+
+.stroke {
+    text-shadow:
+        1px 1px #000, -1px 1px #000, 1px -1px #000, -1px -1px #000,
+        0 1px #000, 0 -1px #000, 1px 0 #000, -1px 0 #000;
+}
+
+.stroke-inv {
+    text-shadow:
+        1px 1px #fff, -1px 1px #fff, 1px -1px #fff, -1px -1px #fff,
+        0 1px #fff, 0 -1px #fff, 1px 0 #fff, -1px 0 #fff;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.banner {
+    width: 70% !important;
+}
+
+.picture {
+    width: 34% !important;
+    height: 34% !important;
+}
